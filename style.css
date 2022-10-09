@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px
+}
+p{
+    text-align:center;
+    font-family: "Lucida Console", "Courier New", "monospace";
+    font-size: 15px
+
+
+}
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:15px;
+    font-weight: normal;
+}
+html, body{
+    background: url(blue.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+.relative {
+    position: relative;
+    left: 200px;
+    top: 50px
+    
+  }
+.relative2 {
+    position: relative;
+    left: 1000px;
+    top: 50px
+  }
+.relative3 {
+    position: relative;
+    left: 150px;
+    top: 10px
+  }
+.relative4 {
+    position: relative;
+    left: 1100px;
+    
+  }
+ .display{
+    color: rgb(0, 255, 94);
+    font-size: 200px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
